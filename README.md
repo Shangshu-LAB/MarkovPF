@@ -1,4 +1,4 @@
-# MarkovPF
+# MarkovPF (Markov Probability Fingerprints)
 The repository of paper *Markov Probability Fingerprints: A Method for Identifying Encrypted Video Traffic*, published in MSN 2020. 
 
 ## Citation
